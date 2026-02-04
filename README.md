@@ -1,1 +1,4 @@
 # lab6_nvh1
+Nguyễn Văn Hiếu
+MSV:23810310112
+D18CNPM2
